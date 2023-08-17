@@ -1,0 +1,9 @@
+body {background: whitesmoke;
+font-size: 16px;
+font-weight: normal;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h1 {color: orangered;}
+.a { width: 500px; border-radius: 15px;}
+.b {padding: 20px 25px; background: #ffdfa8; margin-bottom: 20px; border-radius: 25px;}
+.c {max-width: 75%; margin: auto;}
+.d {text-align: center;}
